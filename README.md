@@ -2,19 +2,19 @@
 
 <!-- PROJECT LOGO -->
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Echoes</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Echoes is a TUI tool for creating React components in a snap. Pick your options, preview your component, and copy the code. Easy as pie!
     <br />
-    <a href="https://github.com/csivitu/Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SubstantialCattle5/Echoes"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/csivitu/Template">View Demo</a>
+    <a href="https://github.com/SubstantialCattle5/Echoes">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Report Bug</a>
+    <a href="https://github.com/SubstantialCattle5/Echoes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Request Feature</a>
+    <a href="https://github.com/SubstantialCattle5/Echoes/issues">Request Feature</a>
   </p>
 </p>
 
@@ -23,33 +23,26 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contributors](#contributors-)
-
-
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`Template`
-
-
 ### Built With
 
-* []()
-* []()
+* [Typescript]()
+* [Blessed]()
 * []()
 
 
@@ -71,7 +64,7 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/csivitu/Template.git
+git clone https://github.com/SubstantialCattle5/Echoes.git
 ```
 2. Install NPM packages
 ```sh
@@ -92,7 +85,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/csivitu/Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SubstantialCattle5/Echoes/issues) for a list of proposed features (and known issues).
 
 
 
@@ -119,7 +112,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[csivitu-shield]: https://img.shields.io/badge/csivitu-csivitu-blue
-[csivitu-url]: https://csivit.com
-[issues-shield]: https://img.shields.io/github/issues/csivitu/Template.svg?style=flat-square
-[issues-url]: https://github.com/csivitu/Template/issues
+[SubstantialCattle5-shield]: https://img.shields.io/badge/SubstantialCattle5-SubstantialCattle5-blue
+[SubstantialCattle5-url]: https://csivit.com
+[issues-shield]: https://img.shields.io/github/issues/SubstantialCattle5/Echoes.svg?style=flat-square
+[issues-url]: https://github.com/SubstantialCattle5/Echoes/issues
