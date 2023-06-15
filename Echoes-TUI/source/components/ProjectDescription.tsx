@@ -17,7 +17,6 @@ const ProjectsDescription = ({name, version, frameWork, path}: Data) => (
 		borderColor="redBright"
 		flexDirection="column"
 		width={'80%'}
-
 	>
 		<Box width={'100%'} justifyContent={'center'}>
 			<Gradient name="morning">
@@ -30,12 +29,16 @@ const ProjectsDescription = ({name, version, frameWork, path}: Data) => (
 			<Text>{chalk.green(version)}</Text>
 		</Box>
 		<Box>
-			<Text bold>Framework: </Text>
-			<Text>{chalk.green(frameWork)}</Text>
+			<Text bold>Component Path: </Text>
+			<Text>{chalk.green(path.slice(path.length - 20))}</Text>
 		</Box>
 		<Box>
-			<Text bold>Path: </Text>
-			<Text>{chalk.green(path)}</Text>
+			<Text bold>Backend Path: </Text>
+			<Text>{chalk.green(path.slice(path.length - 20))}</Text>
+		</Box>
+		<Box>
+			<Text bold>Domains: </Text>
+			<Text>{chalk.green(`${frameWork},TailwindCSS,Prisma`)}</Text>
 		</Box>
 	</Box>
 );
